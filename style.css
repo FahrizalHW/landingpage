@@ -495,31 +495,31 @@ img {
 }
 
 .skills__html {
-    width: 90%;
-}
-
-.skills__css {
-    width: 60%;
-}
-
-.skills__js {
-    width: 40%;
-}
-
-.skills__react {
-    width: 85%;
-}
-
-.skills__php {
     width: 80%;
 }
 
-.skills__node {
+.skills__css {
+    width: 65%;
+}
+
+.skills__js {
+    width: 50%;
+}
+
+.skills__react {
     width: 70%;
 }
 
+.skills__php {
+    width: 70%;
+}
+
+.skills__node {
+    width: 50%;
+}
+
 .skills__firebase {
-    width: 90%;
+    width: 50%;
 }
 
 .skills__python {
