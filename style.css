@@ -178,9 +178,6 @@ img {
 .nav__toggle {
     color: var(--title-color);
     font-weight: var(--font-medium);
-    width: 80px;
-    height: auto;
-
 
 }
 
@@ -193,7 +190,7 @@ img {
     cursor: pointer;
 }
 
-.nev__toggle:hover {
+.nav__toggle:hover {
     color: var(--first-color);
 }
 
